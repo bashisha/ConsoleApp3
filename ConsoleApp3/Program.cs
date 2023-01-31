@@ -7,7 +7,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello FF!");
-            int x = 1 / 0;
+            int x = 1 / 2;
         }
     }
 }
